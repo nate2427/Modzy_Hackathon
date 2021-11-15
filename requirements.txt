@@ -1,3 +1,36 @@
-PyQt6==6.2.1
-PyQt6-Qt6==6.2.1
-PyQt6-sip==13.1.0
+Package                Version
+---------------------- --------
+astroid                2.8.4
+autopep8               1.5.5
+click                  8.0.3
+flake8                 3.8.4
+Flask                  2.0.2
+isort                  5.10.0
+itsdangerous           2.0.1
+jedi                   0.17.2
+Jinja2                 3.0.3
+lazy-object-proxy      1.6.0
+MarkupSafe             2.0.1
+mccabe                 0.6.1
+parso                  0.7.1
+pip                    21.3.1
+platformdirs           2.4.0
+pluggy                 1.0.0
+pycodestyle            2.6.0
+pydocstyle             6.1.1
+pyflakes               2.2.0
+pylint                 2.11.1
+PyQt6                  6.2.1
+PyQt6-Qt6              6.2.1
+PyQt6-sip              13.1.0
+python-jsonrpc-server  0.4.0
+python-language-server 0.36.2
+rope                   0.21.0
+setuptools             41.2.0
+snowballstemmer        2.1.0
+toml                   0.10.2
+typing-extensions      3.10.0.2
+ujson                  4.2.0
+Werkzeug               2.0.2
+wrapt                  1.13.3
+yapf                   0.31.0
