@@ -1,8 +1,8 @@
 {
-    "title": "Frontend",
-    "identifier": "com.yourcompany.wizardEVAP.Frontend",
-    "orientation": "portrait",
-    "versioncode": 1,
-    "versionname": "1.0.0",
-    "stage": "test"
+  "title": "BluetoothHeartrate",
+  "identifier": "net.vplay.demos.apps.bluetoothheartrate",
+  "orientation": "portrait",
+  "versioncode": 1,
+  "versionname": "1.0.0",
+  "stage": "test"
 }
